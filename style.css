@@ -8,3 +8,19 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.menu-header {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+  height: 40px;
+  border-radius: 2px;
+  padding: 1px;
+}
+.menu-header ul:hover {
+  transition: 1.2s;
+  font-size: 22px;
+}
