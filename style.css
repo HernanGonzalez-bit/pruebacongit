@@ -1,0 +1,10 @@
+body {
+  background-color: chocolate;
+}
+
+.contenedor h1 {
+  background-color: salmon;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
